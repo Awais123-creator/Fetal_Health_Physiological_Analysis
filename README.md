@@ -5,7 +5,7 @@ Can an algorithm help a doctor make a life-saving decision in seconds? This proj
 ### The "Why" Behind the Project
 In a busy labor ward, identifying a baby in distress is a high-stakes race against time. I built this classifier to see if a **Random Forest** model could accurately sort patients into three categories: **Normal**, **Suspect**, and **Pathological**.
 
-The goal wasn't just to get a high accuracy score—it was to build a tool that actually understands medical risk, prioritizing the "catch" of high-risk cases over everything else.
+The goal wasn't just to get a high accuracy scorem it was to build a tool that actually understands medical risk, prioritizing the "catch" of high-risk cases over everything else.
 
 ---
 
