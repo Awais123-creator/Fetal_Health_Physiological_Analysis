@@ -9,7 +9,7 @@ The goal wasn't just to get a high accuracy scorem it was to build a tool that a
 
 ---
 
-### he Results (Clinical Audit)
+### The Results (Clinical Audit)
 After training the model on over 2,000 patient records, here is how the AI performed on its "Final Exam" (the test set):
 
 * **Overall Accuracy:** **93%** (Technically 92.72%, but rounded for the big picture).
